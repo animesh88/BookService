@@ -1,6 +1,6 @@
 # BookService
 
-If you use this project, then please let me know the purpose at animesh.chaturvedi88@gmail.com
+If you use this project, then please let me know at animesh.chaturvedi88@gmail.com
 
 Use NetBeans (enabled with Glassfish) to import and use the project.
 
