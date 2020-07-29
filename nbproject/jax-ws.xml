@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="BGWS">
+      <implementation-class>BooKService.BGWS</implementation-class>
+    </service>
+    <service name="BooKService">
+      <implementation-class>BooKService.BooKService</implementation-class>
+    </service>
+    <service name="BibleWS">
+      <implementation-class>BooKService.BibleWS</implementation-class>
+    </service>
+  </services>
+  <clients/>
+</jax-ws>
