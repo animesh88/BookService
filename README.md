@@ -2,6 +2,10 @@
 
 If you use this project, then please let me know the purpose at animesh.chaturvedi88@gmail.com
 
+Use NetBeans (enabled with Glassfish) to import and use the project.
+
+I request anyone that can complete the incomplete verses of Bhagwat Gita (BG) and Bible in the Web service.
+
 Please cite or refer following research papers 
 6. Animesh Chaturvedi, Aruna Tiwari, Shubhangi Chaturvedi, and Dave Binkley “Service Evolution Analytics: Change and Evolution Mining of a Distributed System”, IEEE Transactions on Engineering Management, Accepted. IF: 2.784
 
