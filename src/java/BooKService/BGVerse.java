@@ -35,22 +35,22 @@ public class BGVerse {
                 verse = "But for your information, O best of the brāhmaṇas, let me tell you about the captains who are especially qualified to lead my military force.";
                 break;
             case 8:
-                verse = "";
+                verse = "There are personalities like you, Bhéñma, Karëa, Kåpa, Açvatthämä, Vikarëaand the son of Somadatta called Bhüriçravä, who are always victorious in battle.";
                 break;
             case 9:
-                verse = "";
+                verse = "There are many other heroes who are prepared to lay down their lives for mysake. All of them are well equipped with different kinds of weapons, and all areexperienced in military science.";
                 break;
             case 10:
-                verse = "";
+                verse = "Our strength is immeasurable, and we are perfectly protected by GrandfatherBhéñma, whereas the strength of the Päëòavas, carefully protected by Bhéma, islimited.";
                 break;
             case 11:
-                verse = "";
+                verse = "All of you must now give full support to Grandfather Bhéñma, as you standat your respective strategic points of entrance into the phalanx of the army.";
                 break;
             case 12:
-                verse = "";
+                verse = "Then Bhéñma, the great valiant grandsire of the Kuru dynasty, thegrandfather of the fighters, blew his conchshell very loudly, making a sound likethe roar of a lion, giving Duryodhana joy.";
                 break;
             case 13:
-                verse = "";
+                verse = "After that, the conchshells, drums, bugles, trumpets and horns were allsuddenly sounded, and the combined sound was tumultuous.";
                 break;
             case 14:
                 verse = "On the other side, both Lord Kṛṣṇa and Arjuna, stationed on a great chariot drawn by white horses, sounded their transcendental conchshells.";
