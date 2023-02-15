@@ -13,7 +13,7 @@ Project related video presentations are as follows - <br>
 
 Please help to complete the verses of Bhagavad Gita (BG) and Bible in the Web service.
 Please read, refer, and cite the following research papers that used the -
-<b>  BookService </b> in the experimentation section.
+<b>  BookService </b> as one of the case study in the experimentation section.
 
 # Service Evolution Analytics: Change and Evolution Mining of a Distributed System
 J2 Animesh Chaturvedi, Aruna Tiwari, Shubhangi Chaturvedi, and Dave Binkley “Service Evolution Analytics: Change and Evolution Mining of a Distributed System”, IEEE Transactions on Engineering Management. DOI: 10.1109/TEM.2020.2987641 https://youtu.be/krpsiMKp40g https://github.com/animesh88/ServiceEvolutionAnalytics
@@ -39,10 +39,10 @@ Videos related to the basic concepts related to the project, which are lectures 
 Applications of this project could be <b> - QoS and SLA </b> https://youtu.be/UfD2DLIeHxg <br>
 
 There are few more projects, which are aligned to this project. <br>
+https://github.com/animesh88/WebServiceSlicing-ORTWS-PRTWS <br>
 https://github.com/animesh88/ServiceEvolutionAnalytics <br>
 https://github.com/animesh88/JMeterRTWS <br>
 https://github.com/animesh88/SaaS <br>
-https://github.com/animesh88/BookService <br>
 These projects are accumulated during 2011-2020.
 
 For more details read research papers follow the project's web-page https://sites.google.com/site/animeshchaturvedi07/research/awscm <br> If you need any help in this project, then please email me at animesh.chaturvedi88@gmail.com
